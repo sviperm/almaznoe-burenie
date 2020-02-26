@@ -42,7 +42,7 @@ const images = [
 ];
 
 export default () => (
-    <Section>
+    <Section id='examples'>
         <Title>Примеры работ</Title>
         <Gallery images={images} />
     </Section>

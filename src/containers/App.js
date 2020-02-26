@@ -7,6 +7,7 @@ import Services from './Services';
 import HowWeWork from './HowWeWork';
 import Price from './Price';
 import Examples from './Examples';
+import Copyrites from './Copyrites';
 
 const App = styled.div`
     position: relative;
@@ -22,5 +23,6 @@ export default () => (
         <HowWeWork />
         <Price />
         <Examples />
+        <Copyrites />
     </App>
 );
