@@ -1,8 +1,27 @@
 import React from 'react';
 import styled from 'styled-components';
 import heartUrl from '../../static/icons/heart.png';
-import Section from '../../components/Section';
+import StyledSection from '../../components/Section';
 
+const Section = styled(StyledSection)`
+    padding: 20px 50px;
+
+    @media (max-width: 1300px) {
+        & {
+            padding: 20px 100px;
+        }
+    }
+    @media (max-width: 1100px) {
+        & {
+            padding: 20px 50px;
+        }
+    }
+    @media (max-width: 750px) {
+        & {
+            padding: 10px 5px;
+        }
+    }
+`;
 const Wrapper = styled.div`
     display: flex;
     flex-direction: column;

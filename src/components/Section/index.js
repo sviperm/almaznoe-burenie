@@ -1,6 +1,6 @@
 import styled from 'styled-components';
 
-const Section = styled.section`
+export default styled.section`
     position: relative;
     padding: 50px 200px;
     display: flex;
@@ -18,7 +18,7 @@ const Section = styled.section`
     }
     @media (max-width: 1100px) {
         & {
-            padding: 50px 50px;
+            padding: 50px;
         }
     }
     @media (max-width: 750px) {
@@ -27,5 +27,3 @@ const Section = styled.section`
         }
     }
 `;
-
-export default Section;
