@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.30e6b870.chunk.css",
-    "main.js": "/static/js/main.a1e15289.chunk.js",
-    "main.js.map": "/static/js/main.a1e15289.chunk.js.map",
+    "main.css": "/static/css/main.c3961639.chunk.css",
+    "main.js": "/static/js/main.4da3fc4d.chunk.js",
+    "main.js.map": "/static/js/main.4da3fc4d.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f1de9b7e.js",
     "runtime-main.js.map": "/static/js/runtime-main.f1de9b7e.js.map",
     "static/css/2.1cc9201e.chunk.css": "/static/css/2.1cc9201e.chunk.css",
-    "static/js/2.8c13e87c.chunk.js": "/static/js/2.8c13e87c.chunk.js",
-    "static/js/2.8c13e87c.chunk.js.map": "/static/js/2.8c13e87c.chunk.js.map",
+    "static/js/2.0be63070.chunk.js": "/static/js/2.0be63070.chunk.js",
+    "static/js/2.0be63070.chunk.js.map": "/static/js/2.0be63070.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.f0449cb3038d328603827be4c1dd7a08.js": "/precache-manifest.f0449cb3038d328603827be4c1dd7a08.js",
+    "precache-manifest.791479f9f9a3a727b9069581c673675e.js": "/precache-manifest.791479f9f9a3a727b9069581c673675e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.1cc9201e.chunk.css.map": "/static/css/2.1cc9201e.chunk.css.map",
-    "static/css/main.30e6b870.chunk.css.map": "/static/css/main.30e6b870.chunk.css.map",
-    "static/js/2.8c13e87c.chunk.js.LICENSE.txt": "/static/js/2.8c13e87c.chunk.js.LICENSE.txt",
+    "static/css/main.c3961639.chunk.css.map": "/static/css/main.c3961639.chunk.css.map",
+    "static/js/2.0be63070.chunk.js.LICENSE.txt": "/static/js/2.0be63070.chunk.js.LICENSE.txt",
     "static/media/background.jpg": "/static/media/background.e55e6834.jpg",
     "static/media/calculating.svg": "/static/media/calculating.5f85a05a.svg",
     "static/media/cleaning.svg": "/static/media/cleaning.bdf5bbd3.svg",
@@ -23,6 +23,7 @@
     "static/media/drill_3.jpg": "/static/media/drill_3.ee8fd63f.jpg",
     "static/media/drill_4.jpg": "/static/media/drill_4.92d6d4b9.jpg",
     "static/media/drill_5.jpg": "/static/media/drill_5.e9d72d15.jpg",
+    "static/media/heart.png": "/static/media/heart.fa7becd0.png",
     "static/media/ruler.svg": "/static/media/ruler.f0de1c03.svg",
     "static/media/vacuum-cleaner.svg": "/static/media/vacuum-cleaner.355ddd2b.svg",
     "static/media/wall.svg": "/static/media/wall.16e7608a.svg",
@@ -31,8 +32,8 @@
   "entrypoints": [
     "static/js/runtime-main.f1de9b7e.js",
     "static/css/2.1cc9201e.chunk.css",
-    "static/js/2.8c13e87c.chunk.js",
-    "static/css/main.30e6b870.chunk.css",
-    "static/js/main.a1e15289.chunk.js"
+    "static/js/2.0be63070.chunk.js",
+    "static/css/main.c3961639.chunk.css",
+    "static/js/main.4da3fc4d.chunk.js"
   ]
 }
