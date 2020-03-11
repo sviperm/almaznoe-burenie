@@ -65,6 +65,7 @@ export default params => (
                     Eucalyp
                 </Link>
             </Text>
+            <Text>ООО «Алмаз Основа»</Text>
             <Text>{date.getFullYear() === 2020 ? '2020 г.' : `2020 - ${date.getFullYear()} гг.`} </Text>
         </Wrapper>
     </Section>
