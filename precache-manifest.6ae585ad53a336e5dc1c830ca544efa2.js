@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8e3657b31f53739df9525a86a5fa270c",
+    "revision": "71412cf8e601e8ec841a930682c21088",
     "url": "/index.html"
   },
   {
-    "revision": "624c6ffa8a00a5b7a9ad",
+    "revision": "df3bf4ad90f1ae01607a",
     "url": "/static/css/2.1cc9201e.chunk.css"
   },
   {
-    "revision": "0fc5c1d7b4d6b9746d09",
-    "url": "/static/css/main.c3961639.chunk.css"
+    "revision": "084e3bc07b609a99dde6",
+    "url": "/static/css/main.7af1af35.chunk.css"
   },
   {
-    "revision": "624c6ffa8a00a5b7a9ad",
-    "url": "/static/js/2.9072b03e.chunk.js"
+    "revision": "df3bf4ad90f1ae01607a",
+    "url": "/static/js/2.41c40d07.chunk.js"
   },
   {
     "revision": "0bdc4f0d8b3d84ae6a73bb9902b479ee",
-    "url": "/static/js/2.9072b03e.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.41c40d07.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0fc5c1d7b4d6b9746d09",
-    "url": "/static/js/main.ca3ba4b3.chunk.js"
+    "revision": "084e3bc07b609a99dde6",
+    "url": "/static/js/main.b9ef3575.chunk.js"
   },
   {
     "revision": "1745a6e760f544fa7934",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/cup.243b7d3d.svg"
   },
   {
-    "revision": "07e9fc01904383928927546ab214e0c5",
-    "url": "/static/media/drill_1.07e9fc01.jpg"
-  },
-  {
     "revision": "9f67deebb7994db87b8c5df0ecdd6e4a",
     "url": "/static/media/drill_1.9f67deeb.jpg"
   },
@@ -56,32 +52,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/drill_2.736865d8.jpg"
   },
   {
-    "revision": "937817eca7a9485be3a232f953dd9128",
-    "url": "/static/media/drill_2.937817ec.jpg"
-  },
-  {
     "revision": "427c4d1a5bbd644fafcffb1e7803ca8a",
     "url": "/static/media/drill_3.427c4d1a.jpg"
-  },
-  {
-    "revision": "ee8fd63f144773c045251a1f29a7153b",
-    "url": "/static/media/drill_3.ee8fd63f.jpg"
   },
   {
     "revision": "2281a05cf807e6fa5107fa26aea71a7d",
     "url": "/static/media/drill_4.2281a05c.jpg"
   },
   {
-    "revision": "92d6d4b9f7de71d670827502b4037de3",
-    "url": "/static/media/drill_4.92d6d4b9.jpg"
-  },
-  {
     "revision": "4832b11b8743d090d5f727c65cdcd350",
     "url": "/static/media/drill_5.4832b11b.jpg"
-  },
-  {
-    "revision": "e9d72d154392be1644cca45cb161e84d",
-    "url": "/static/media/drill_5.e9d72d15.jpg"
   },
   {
     "revision": "fa7becd0ed0585bdb3ee0b2eb81f01ff",
