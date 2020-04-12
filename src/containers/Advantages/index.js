@@ -35,7 +35,7 @@ const Grid = styled(StyledGrid)`
 
 export default () => (
     <Section id='advantages' bgColor='#fdf0bf'>
-        <Title>Наши приемущества</Title>
+        <Title>Наши преимущества</Title>
         <Grid>
             {advantages.map((text, i) => (
                 <NumText key={i} num={i + 1}>
